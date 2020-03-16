@@ -8,12 +8,20 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": "",
   "dependencies": {
     "mongoose": "^5.9.4",
     "underscore": "^1.9.2"
   },
   "devDependencies": {
     "jshint": "^2.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsondsa/NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elsondsa/NodeJS/issues"
+  },
+  "homepage": "https://github.com/elsondsa/NodeJS#readme",
+  "description": ""
 }
